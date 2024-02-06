@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./MovieList.CSS";
+import "./MovieList.css";
 import Cards from "../card/Card";
 import { useParams } from "react-router-dom";
 
