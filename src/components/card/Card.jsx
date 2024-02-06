@@ -52,7 +52,7 @@ const Cards = ({ movie }) => {
         </Link>
       )}
     </>
-  );
+  )
 };
 
 export default Cards;
